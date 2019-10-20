@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="788075d6-bb8e-497d-b273-9f6e3ac8485f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Type Casting in Kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operations.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data Input.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Input.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/DatatypesKt$main$human$1$body$1$head$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/DatatypesKt$main$human$1$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/DatatypesKt$main$human$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/DatatypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/META-INF/Kotlin Baby Steps.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/META-INF/Kotlin Baby Steps.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/Main_functionKt.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Type_Casting_in_KotlinKt">
+  <component name="RunManager" selected="Kotlin.OperationsKt">
     <configuration name="Data_InputKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
@@ -87,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Baby Steps" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OperationsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Type_Casting_in_KotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
@@ -102,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperationsKt" />
         <item itemvalue="Kotlin.Type_Casting_in_KotlinKt" />
         <item itemvalue="Kotlin.Data_InputKt" />
         <item itemvalue="Kotlin.DatatypesKt" />
