@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="788075d6-bb8e-497d-b273-9f6e3ac8485f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Whats Your Age App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3 Udacity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_Udacity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5 Udacity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/6 Udacity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boxing and Unboxing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List vs Arrays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/Increment_DecrementKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/Increment_DecrementKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/META-INF/Kotlin Baby Steps.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/META-INF/Kotlin Baby Steps.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/Whats_Your_Age_AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin Baby Steps/Whats_Your_Age_AppKt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -33,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/variables" />
     </key>
   </component>
@@ -48,67 +56,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Whats_Your_Age_AppKt">
-    <configuration name="Increment_DecrementKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.List_vs_ArraysKt">
+    <configuration name="List_vs_ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Increment_DecrementKt" />
+      <option name="MAIN_CLASS_NAME" value="List_vs_ArraysKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="_3_UdacityKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="OperationsKt" />
+      <option name="MAIN_CLASS_NAME" value="_3_UdacityKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrioritiesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="_4_UdacityKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PrioritiesKt" />
+      <option name="MAIN_CLASS_NAME" value="_4_UdacityKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Type_Casting_in_KotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="_5_UdacityKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Type_Casting_in_KotlinKt" />
+      <option name="MAIN_CLASS_NAME" value="_5_UdacityKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whats_Your_Age_AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="_6_UdacityKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Baby Steps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Whats_Your_Age_AppKt" />
+      <option name="MAIN_CLASS_NAME" value="_6_UdacityKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Whats_Your_Age_AppKt" />
-        <item itemvalue="Kotlin.Increment_DecrementKt" />
-        <item itemvalue="Kotlin.PrioritiesKt" />
-        <item itemvalue="Kotlin.OperationsKt" />
-        <item itemvalue="Kotlin.Type_Casting_in_KotlinKt" />
+        <item itemvalue="Kotlin.List_vs_ArraysKt" />
+        <item itemvalue="Kotlin._6_UdacityKt" />
+        <item itemvalue="Kotlin._5_UdacityKt" />
+        <item itemvalue="Kotlin._4_UdacityKt" />
+        <item itemvalue="Kotlin._3_UdacityKt" />
       </list>
     </recent_temporary>
   </component>
@@ -149,5 +157,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Operations.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Boxing and Unboxing.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
